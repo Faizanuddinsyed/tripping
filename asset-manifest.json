@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1b7b8dd9.css",
+    "main.js": "/static/js/main.cbc4ff19.js",
+    "static/media/16.jpg": "/static/media/16.ae29b233c2921a94ea6d.jpg",
+    "static/media/kullu1.jpg": "/static/media/kullu1.ce5c086bf521e69fd63c.jpg",
+    "static/media/taj.jpg": "/static/media/taj.5ff56b4dda22ce7e066a.jpg",
+    "static/media/kullu.jpg": "/static/media/kullu.d4c82fa7ab84f490d8b0.jpg",
+    "static/media/3.jpg": "/static/media/3.84d5235cc693e15661d6.jpg",
+    "static/media/2.jpg": "/static/media/2.bbb41348bb839b9124d8.jpg",
+    "static/media/1.jpg": "/static/media/1.509d4d795248ac9962f3.jpg",
+    "static/media/12.jpg": "/static/media/12.257c5311e1cae5638aad.jpg",
+    "static/media/8.jpg": "/static/media/8.9d1ddd2ceb0e8def6f48.jpg",
+    "static/media/9.jpg": "/static/media/9.38f6e89ddfed54feaf50.jpg",
+    "static/media/5.jpg": "/static/media/5.46b372902997b3fbd648.jpg",
+    "static/media/4.jpg": "/static/media/4.0c7885e97d08f0a61db1.jpg",
+    "index.html": "/index.html",
+    "main.1b7b8dd9.css.map": "/static/css/main.1b7b8dd9.css.map",
+    "main.cbc4ff19.js.map": "/static/js/main.cbc4ff19.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1b7b8dd9.css",
+    "static/js/main.cbc4ff19.js"
+  ]
+}
